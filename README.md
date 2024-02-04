@@ -1,2 +1,2 @@
-# Atlas_2022_BCR_BBS-data
-Atlas | Year: 2022 | Area: Bird Conservation Regions (BCR) | Data: Breeding Bird Survey (BS)
+# BreadcrumbsBird-Atlas_BCR_BBS-data_2022-2022
+Bird Atlas | Area: Bird Conservation Regions (BCR) | Data: Breeding Bird Survey (BBS) | Year: 2022-2022 | All Bird Species
