@@ -7,7 +7,7 @@ The North American Bird Atlas presented here is the culmination of a comprehensi
 ## Atlas Overview
 | **Atlas Feature** | **Description**                                                  |
 | :---              | :---                                                             |
-| Speacies          | North American Bird Species                                      | 
+| Species           | North American Bird Species                                      | 
 | Geographic Area   | Bird Conservation Regions (BCR)                                  | 
 | Data Source	    | Breeding Bird Survey (BBS) data                                  |
 | Year interval     | 2017-2022                                                        | 
